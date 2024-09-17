@@ -11,4 +11,4 @@ A simple, elegant To-Do List application built using **HTML**, **CSS**, and **Ja
 
 ## Live Demo
 
-Check out the live demo of the website here: (https://mohammadabushams.github.io/simple-todo-list-app-in-js-/)
+Check out the live demo of the website [here](https://mohammadabushams.github.io/simple-todo-list-app-in-js-/)
