@@ -6,7 +6,7 @@ A simple, elegant To-Do List application built using **HTML**, **CSS**, and **Ja
 
 - **Add Tasks**: Enter a task and add it to the list.
 - **Delete Tasks**: Remove tasks from the list with the delete button.
-- **Mark Tasks as Complete**: Click on a task to toggle its completion status (line-through).
+- **Mark Tasks as Complete**: Click on a task to toggle its completion status.
 - **Responsive Design**: The layout is responsive and works well on all screen sizes.
 
 ## Live Demo
